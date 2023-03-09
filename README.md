@@ -16,5 +16,5 @@
 ## Инструкция по развёртыванию
 *запуск через liveserver
 
-## GitHub Pages
+## GitHub Pages 
 https://viktoriiadev.github.io/how-to-learn/index.html
